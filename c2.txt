@@ -1,0 +1,5 @@
+def max_attempts := 5
+@{
+username = [[admin]];
+attempts = max_attempts;
+}
