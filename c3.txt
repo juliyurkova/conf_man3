@@ -1,0 +1,11 @@
+def multiplier := 3
+def addend := 7
+def result := #(+ multiplier addend)
+
+@{
+username = [[admin]];
+password = [[secret]];
+multiplier = multiplier;
+addend = addend;
+result = result;
+}
